@@ -1,0 +1,7 @@
+(function() {
+    var sw_url = '/maps/_/js/k\x3dmaps.msw.en.oToYVQgZBDo.2019.O/m\x3dsw/rt\x3dj/d\x3d1/rs\x3dACT90oE4keJqAHRF_OXM2Nlg34Uoi3BvKg';
+    var sw_lang = 'en';
+    self['_SERVICE_WORKER_LANGUAGE'] = sw_lang;
+    importScripts(sw_url);
+}
+)();

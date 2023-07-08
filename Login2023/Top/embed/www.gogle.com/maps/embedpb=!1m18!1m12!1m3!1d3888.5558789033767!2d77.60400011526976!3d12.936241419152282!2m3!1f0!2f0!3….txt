@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style type="text/css">
+            html, body, #mapDiv {
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="mapDiv"></div>
+        <script nonce="Y9tBGVjjb5L_5FNJpr6eHA">
+            function onEmbedLoad() {
+                initEmbed([null, null, null, null, null, [[[2, "spotlight", null, null, null, null, null, [[null, null, null, null, null, null, null, null, null, null, null, [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 1]], ["0x3bae15b277a93807:0x88518f37b39dabd0", "Christ (Deemed to be University)", null, [null, null, 12.9362362, 77.6061888], 0], null, null, null, null, null, null, null, null, 11, null, [null, "a", null, null, null, null, null, null, null, null, null, null, null, 1, null, null, null, [null, null, null, null, null, 0, null, null, 1, null, null, null, null, null, null, null, null, null, null, 1, 1], null, null, null, [null, null, null, null, null, 2, 3, 2]], null, null, null, null, null, [12, 14, 29, 37, 30, 61, 70]]]]], null, ["en", "in"], [null, null, null, "/maps/api/js/ApplicationService.GetEntityDetails", "/maps/embed/upgrade204", null, "/maps/embed/record204"], null, null, null, null, null, null, null, null, "NdiiZI_NKLKI4-EP0oOWiAE", null, null, null, [[[3888.555878903377, 77.60618880000001, 12.9362362], [0, 0, 0], null, 13.10000038146973], null, 0, [["0x3bae15b277a93807:0x88518f37b39dabd0", "Christ University, Hosur Main Road, Bhavani Nagar, S.G. Palya, Bengaluru, Karnataka 560029", [12.9362362, 77.6061888], "9822789731671190480"], "Christ University", ["Hosur Main Road", "Bhavani Nagar, S.G. Palya", "Bengaluru, Karnataka 560029"], 4.300000190734863, "4,013 reviews", "https://search.google.com/local/reviews?placeid=ChIJBzipd7IVrjsR0KudszePUYg\u0026q=Christ+(Deemed+to+be+University)\u0026hl=en\u0026gl=IN", null, "080 4012 9600", null, null, null, ["http://www.christuniversity.in/", "christuniversity.in", null, null, ",AOvVaw2gs_Rp6aHL2eeehN1r0oyP,,0ahUKEwjPu-P83PL_AhUyxDgGHdKBBREQ61gIFSgQ,"], "University", "Hosur Main Road, Bhavani Nagar, S.G. Palya, Bengaluru, Karnataka 560029", null, null, null, null, null, null, null, null, null, 1, null, null, null, "ChIJBzipd7IVrjsR0KudszePUYg", null, null, "0ahUKEwjPu-P83PL_AhUyxDgGHdKBBREQ8BcIAygB", "ಕ್ರೈಸ್ಟ್ ಯೂನಿವರ್ಸಿಟಿ", null, ["tel:08040129600"], null, null, null, 1, ["0ahUKEwjPu-P83PL_AhUyxDgGHdKBBREQqtMBCA4oCg", ["7J4VWJP4+FF"], ["WJP4+FF Bengaluru, Karnataka"], 2], [[["Monday", 1, [2023, 7, 3], [["8:30 am–8:30 pm", [[8, 30], [20, 30]]]], 0, 1], ["Tuesday", 2, [2023, 7, 4], [["8:30 am–8:30 pm", [[8, 30], [20, 30]]]], 0, 1], ["Wednesday", 3, [2023, 7, 5], [["8:30 am–8:30 pm", [[8, 30], [20, 30]]]], 0, 1], ["Thursday", 4, [2023, 7, 6], [["8:30 am–8:30 pm", [[8, 30], [20, 30]]]], 0, 1], ["Friday", 5, [2023, 7, 7], [["8:30 am–8:30 pm", [[8, 30], [20, 30]]]], 0, 1], ["Saturday", 6, [2023, 7, 8], [["8:30 am–1 pm", [[8, 30], [13]]]], 0, 1], ["Sunday", 7, [2023, 7, 9], [["Closed"]], 0, 2]], [["Monday", 1, [2023, 7, 3], [["8:30 am–8:30 pm", [[8, 30], [20, 30]]]], 0, 1], 0, 2, null, ["Closes soon ⋅ 8:30 pm ⋅ Opens 8:30 am Tue", [[0, 11, [null, [4289748992, 4294825571]]]]], ["Closes soon ⋅ 8:30 pm ⋅ Opens 8:30 am Tue", [[0, 11, [null, [4289748992, 4294825571]]]]], null, null, ["Open", [[0, 4, [null, [4279795768, 4286695829]]]]]], 1, 2, null, null, 1]]], null, null, null, 0, null, null, null, null, null, null, [1]]);
+            }
+            function onApiLoad() {
+                var embed = document.createElement('script');
+                embed.src = "https://maps.gstatic.com/maps-api-v3/embed/js/53/8/init_embed.js";
+                document.body.appendChild(embed);
+            }
+        </script>
+        <script src="https://maps.googleapis.com/maps/api/js?client=google-maps-embed&amp;paint_origin=&amp;libraries=geometry,search&amp;v=3.exp&amp;language=en&amp;region=in&amp;callback=onApiLoad" nonce="Y9tBGVjjb5L_5FNJpr6eHA" async defer></script>
+    </body>
+</html>
+
